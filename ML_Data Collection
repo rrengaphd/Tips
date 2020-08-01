@@ -1,3 +1,8 @@
 Web Scrapper
 One of the data collection techniques from an 3rd party web site is using web scrapper in python. This is nothing but grabing html page from a website and reading it during online.
 This is followed when there is no unique way.
+
+Finding Relationship between variables
+a. For Continous variables we use correlation. 
+b. For Continous & Categorical variables we can use ANOVA
+c. Categorical variables we can use Chisquare testing.
